@@ -37,7 +37,7 @@ Partial Class Frm_Principal
         '
         'Btm_Principal
         '
-        Me.Btm_Principal.Location = New System.Drawing.Point(15, 45)
+        Me.Btm_Principal.Location = New System.Drawing.Point(75, 44)
         Me.Btm_Principal.Name = "Btm_Principal"
         Me.Btm_Principal.Size = New System.Drawing.Size(124, 46)
         Me.Btm_Principal.TabIndex = 1
